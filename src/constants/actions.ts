@@ -1,0 +1,17 @@
+// navigation
+export const UPDATE_ROOT_NAVIGATION = 'UPDATE_ROOT_NAVIGATION';
+export const UPDATE_APP_NAVIGATION = 'UPDATE_APP_NAVIGATION';
+export const UPDATE_AUTHENTICATION_NAVIGATION =
+  'UPDATE_AUTHENTICATION_NAVIGATION';
+
+// theme and language
+export const UPDATE_THEME = 'UPDATE_THEME';
+
+// user
+export const SET_USER = 'SET_USER';
+export const SET_AUTHENTICATION = 'SET_AUTHENTICATION';
+
+// errors
+export const SET_AUTH_ERROR = 'SET_AUTH_ERROR';
+export const SET_GENERAL_ERROR = 'SET_GENERAL_ERROR';
+export const CLEAR_ERRORS = 'CLEAR_ERRORS';
